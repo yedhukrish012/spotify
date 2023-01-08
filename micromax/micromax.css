@@ -1,0 +1,220 @@
+*{
+    margin: 0%;
+}
+.headers{
+    position: fixed;
+    background-color:white;
+    width: 100%;
+    height: 4rem;
+}
+.menubar{
+    display: flex;
+    height: 4rem;
+    padding-top: 1rem;
+    
+}
+button:hover{
+    cursor: pointer;
+}
+.menu{
+    padding-left: 26rem;
+    padding-top: .7rem;
+}
+.menu div{
+    display: flex;
+    padding-left: 2rem;
+}
+.menu:hover{
+    cursor: pointer;
+}
+.audimg img{
+    height: 3rem;
+    display: flex;
+    display: block;
+}
+.audimg{
+    display: flex;
+    display: block;
+}
+.logo2 img{
+    height: 1rem;
+}
+ul{
+    list-style-type: none;
+}
+.page2{
+    background-color: aqua;
+    height: 35rem;
+}
+.bgimg img{
+    width: 94rem;
+    height: 35rem;
+}
+.p3head h2{
+    font-size: 2rem;
+}
+.p3head{
+    padding-top: 1rem;
+    text-align: center;
+}
+.phndis img{
+    height: 12rem;
+    padding-left: 1rem;
+}
+.phndis{
+    display: flex;
+    padding-left: 6rem;
+}
+.phnimge1{
+    padding: 5rem;
+    text-align: center;
+}
+img:hover{
+    cursor: pointer;
+}
+.phnimge1 p{
+    color: #777777;
+}
+.page4{
+    background-color: #f2ecec;
+    text-align: center;
+    padding-top: 3rem;
+}
+.page4 h1{
+    font-size: 3rem;
+}
+.pagebod{
+    background-color:#f2ecec;
+    height: 27rem;
+    display: flex;
+    justify-content: space-around;
+    padding: 5rem
+
+}
+.audiologo3{
+    background-color: whitesmoke;
+    height: 28rem;
+    width: 36rem;
+}
+.audiologo2{
+    background-color: whitesmoke;
+    height: 28rem;
+    width: 37rem;
+}
+.page4 img{
+    height: 15rem;
+    padding-left: 2rem;
+    padding-top: 4rem;
+}
+.page5{
+    height: 25rem;
+    text-align: center
+}
+.products{
+    display: flex;
+    text-align: center;
+}
+.products img{
+    padding-left: 6rem;
+    height: 8rem;
+    padding-top: 6rem;
+}
+.products h4{
+    padding-left: 9rem;
+}
+.page6{
+    height: 26rem;
+}
+.page6sub{
+    display: flex;
+}
+.indiake{
+    padding: 2rem;
+    text-align: center;
+    max-width: 39rem;
+    padding-left: 12rem
+}
+.indiake button{
+    width: 17rem;
+    background-color: aqua;
+    height: 4rem;
+    border: 1px;
+    border-radius: 5rem;
+}
+.iconsoc{
+    padding-top: 1.5rem;
+    display: flex;
+    background-color: #dfe7e4;
+    width: 46rem;
+    height: 3rem;
+}
+.socialmed{
+    display: flex;
+    height: 7rem;
+    padding-top: 1rem;
+}
+ion-icon:hover{
+    cursor: pointer;
+    color: rgb(26, 204, 204);
+}
+.icon{
+    padding-left: 23rem;
+}
+ion-icon{
+    font-size: 1.7rem;
+    padding-left: 1rem
+}
+.entermail{
+    padding-left: 6rem;
+    display: flex;
+}
+.mail{
+    padding-left: 6rem;
+    font-size: 1.2rem;
+    font-family: system-ui;
+    padding-bottom: 3rem!important;
+}
+.entermail button{
+    padding-left: 13.5rem;
+    background-color: white;
+    border: none;
+    padding-bottom: 3rem!important;
+}
+.page8{
+    background-color: #777777;
+    height: 26rem;
+}
+.footerel{
+    display: flex;
+    padding-top: 3rem;
+
+}
+.footerlist{
+    padding-left: 3.5rem;
+    line-height: 1.8rem;
+    color: #ffffff;
+    font-family: system-ui;
+}
+.footerend{
+    color: #ffffff;
+    font-family: system-ui;
+    padding-top: 5rem;
+    padding-left: 4rem;
+}
+.end{
+    display: flex;
+}
+.endlist ul{
+    padding-top: 5rem;
+    display: flex;
+    color: #ffffff;
+}
+.goback{
+    color: #ffffff;
+    padding-top: 5rem;
+    padding-left: 25rem;
+}
+li:hover{
+cursor: pointer;
+color: aqua;
+}
